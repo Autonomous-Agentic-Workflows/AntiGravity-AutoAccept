@@ -5,9 +5,6 @@
 
 Automatically accept agent steps, terminal commands, file edits, and permission prompts in [Antigravity](https://antigravity.dev) — Google's AI coding assistant.
 
-<p align="center">
-  <img src="images/commandcodeai.gif" alt="AntiGravity AutoAccept Demo" width="600" />
-</p>
 
 ---
 
